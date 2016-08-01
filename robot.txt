@@ -1,0 +1,3 @@
+User-agent: *
+Host: datchik-zatopleniya.ru
+#
